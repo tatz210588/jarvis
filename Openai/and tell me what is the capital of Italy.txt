@@ -1,0 +1,6 @@
+OpenAI response for Prompt: hey Jarvis use your brain and tell me what is the capital of Italy 
+ *************************
+
+
+
+The capital of Italy is Rome.
